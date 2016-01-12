@@ -5,9 +5,9 @@ An extremely simple class for getting Facebook like, share, and comment counts f
 Basic Usage:
 
 ```php
-use bermanco\FacebookShareCount\FacebookShareCount
+use bermanco\FacebookShareCount\FacebookShareCount;
 
-$fb_count = new FacebookCount;
+$fb_count = new FacebookShareCount;
 $fb_count->get_single_url_count('http://metafilter.com'); // 1512
 ```
 

@@ -1,0 +1,15 @@
+{
+    "name": "bermanco/facebook-share-count",
+    "authors": [
+        {
+            "name": "Chris Herbert",
+            "email": "herbert@bermanco.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "bermanco\\FacebookCount\\": "src/"
+        }
+    }
+}
